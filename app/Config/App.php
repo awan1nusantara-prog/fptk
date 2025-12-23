@@ -16,7 +16,7 @@ class App extends BaseConfig
      *
      * E.g., http://example.com/
      */
-    public string $baseURL = 'http://10.101.56.236:8082/fptk/public/';
+    public string $baseURL = 'http://10.101.56.236:8082/';
 
 
     /**
