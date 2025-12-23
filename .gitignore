@@ -126,3 +126,5 @@ _modules/*
 /phpunit*.xml
 env
 app/Config/App.php
+env
+app/Config/App.php
