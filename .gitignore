@@ -126,3 +126,6 @@ _modules/*
 /phpunit*.xml
 env
 app/Config/App.php
+env
+composer.lock
+app/Config/App.php
